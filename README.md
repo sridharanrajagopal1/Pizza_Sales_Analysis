@@ -49,6 +49,20 @@ Open the Excel file and review cleaned data.
 Run SQL queries in your PostgreSQL environment.
 Open the .pbix file in Power BI Desktop to explore the dashboard.
 
+
+PowerPoint Presentation: Web & Social Media Sentiment Analysis
+Slide 1: Title Slide
+Web & Social Media Sentiment Analysis
+Slide 2: Sentimental analysis
+Summary of sentiment trends
+How insights can help marketing or product teams
+Suggestions for improving brand sentiment
+Slide 3: Rivews Behavior
+Slide 4: Time based Trends
+Recap of project goals and outcomes
+Benefits of sentiment analysis for business intelligence
+Future work: real-time monitoring, expanding data sources
+Slide 11: Questions?
 📬 Contact
 Name: Sridharan R
 LinkedIn:www.linkedin.com/in/sridharan-rajagopal
